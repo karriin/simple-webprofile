@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Nikita's Website</title>
+    <link rel="icon" type="image/x-icon" href="/.vscode/images/favicon.ico">
+    <meta charset="UTF-8">
+    <link href='https://fonts.googleapis.com/css?family=Nova Mono' rel='stylesheet'>
+</head>
+<body>
+    <h1>ミ welcome to nikita's homepage 彡 ☆</h1>
+    <p>This is my homepage where I will store things. What do you think?</p>
+    <img src="file:///Users/nikitakarri/Desktop/monetflowers.png" alt="Logo">
+   
+    <nav class="main-nav">
+
+        <ul class="main-nav-list" role="navigation">
+
+          <li><a class="main-nav-link" href="#pictures">pictures</a></li>
+
+          <li><a class="main-nav-link" href="#about">about me</a></li>
+
+          <li>
+
+            <a class="main-nav-link nav-cta">say hi</a>
+
+          </li>
+
+        </ul>
+
+      </nav>
+   
+      <footer>
+
+        <h1 class="heading-primary">✧･ﾟ: ✧･ﾟ: Thank you for visiting my shop!
+            Have a look at these links or click below to play some music <3 :･ﾟ✧:･ﾟ✧!</h1>
+   
+        <p>&copy; Copyright 2023 Astral's World</p>
+   
+      </footer>
+</body>
+</html>
+
